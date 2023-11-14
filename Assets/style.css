@@ -1,3 +1,13 @@
-body {
+
+main {
+    width: 90vw;
+    margin: 0 auto;
+}
+/* .row {
+    height: 200px;
+    background-color: blue;
+} */
+.col {
     background-color: red;
+    height: 200px;
 }
